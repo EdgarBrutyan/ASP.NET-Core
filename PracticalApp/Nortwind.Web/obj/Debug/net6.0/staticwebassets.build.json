@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+boiwRXWk2ijkWNxRutcKT4zosocIn3UMuwB7Tv9/a0=",
+  "Source": "Nortwind.Web",
+  "BasePath": "_content/Nortwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Nortwind.Web\\wwwroot",
+      "Source": "Nortwind.Web",
+      "ContentRoot": "C:\\Users\\edgar\\Desktop\\.NET Core\\PracticalApp\\Nortwind.Web\\wwwroot\\",
+      "BasePath": "_content/Nortwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\edgar\\Desktop\\.NET Core\\PracticalApp\\Nortwind.Web\\wwwroot\\index.html",
+      "SourceId": "Nortwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\edgar\\Desktop\\.NET Core\\PracticalApp\\Nortwind.Web\\wwwroot\\",
+      "BasePath": "_content/Nortwind.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
